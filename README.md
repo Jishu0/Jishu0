@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
+![Supercomputer](https://example.com/supercomputer-image.png)
+
 ## 🛠 Skills & Technologies
 ![PHP](https://img.shields.io/badge/PHP-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
